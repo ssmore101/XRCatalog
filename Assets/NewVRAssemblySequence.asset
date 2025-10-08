@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d116ff9e01905c94e87416e905f0d2b8, type: 3}
+  m_Name: NewVRAssemblySequence
+  m_EditorClassIdentifier: Assembly-CSharp::XRTemplate.AssemblySystem.VRAssemblySequence
+  SequenceName: 
+  Description: 
+  Steps:
+  - StepName: 
+    Part: {fileID: 0}
+    GhostOffset: {x: 0, y: 0, z: 0}
+    TextInstruction: 
+    VoiceInstruction: {fileID: 0}
+    Operations:
+    - {fileID: 0}
+    ValidatePartPresence: 0
