@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Bharat ULH 155mm 39 CAL
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3fa49c7e87fdd7f4684d2f438f0b694a, type: 2}
   m_sharedMaterial: {fileID: -2497392433963034464, guid: 3fa49c7e87fdd7f4684d2f438f0b694a, type: 2}
@@ -148,6 +148,7 @@ GameObject:
   - component: {fileID: 2401139583591021801}
   - component: {fileID: 7733602415122490185}
   - component: {fileID: 2801469607788283074}
+  - component: {fileID: 6419561592201626923}
   m_Layer: 5
   m_Name: btn-product
   m_TagString: Untagged
@@ -203,7 +204,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: e02fe3c4a0fa7ee44aa724ad815ac966, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -257,3 +258,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &6419561592201626923
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 951555009689955887}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76f95491bd92cd54aa7989f7c8468cac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  productNameText: {fileID: 5508971111378366882}
+  productThumbnailImage: {fileID: 7733602415122490185}
+  button: {fileID: 2801469607788283074}

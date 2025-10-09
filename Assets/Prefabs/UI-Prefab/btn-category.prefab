@@ -65,7 +65,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Artillery
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3fa49c7e87fdd7f4684d2f438f0b694a, type: 2}
   m_sharedMaterial: {fileID: -2497392433963034464, guid: 3fa49c7e87fdd7f4684d2f438f0b694a, type: 2}
@@ -148,6 +148,7 @@ GameObject:
   - component: {fileID: 9176602689232532153}
   - component: {fileID: 1748166685936215573}
   - component: {fileID: 2591603585894716362}
+  - component: {fileID: 5390624802869781266}
   m_Layer: 5
   m_Name: btn-category
   m_TagString: Untagged
@@ -203,7 +204,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 2134930663, guid: 527a2c5e9ed7e634bbce7ac51fec7da4, type: 3}
+  m_Sprite: {fileID: 0}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -257,3 +258,18 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &5390624802869781266
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6660450259445230961}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 009c52170f4df454caafcec29d9d92ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  categoryNameText: {fileID: 422055110456999048}
+  categoryIconImage: {fileID: 1748166685936215573}
+  button: {fileID: 2591603585894716362}

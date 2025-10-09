@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb8ca038cb88bae4882a782b227660b8, type: 3}
+  m_Name: ARCatalog
+  m_EditorClassIdentifier: 
+  categories:
+  - categoryName: Artillery
+    categoryIcon: {fileID: 2134930663, guid: 527a2c5e9ed7e634bbce7ac51fec7da4, type: 3}
+    products:
+    - productName: ATAGS
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints:
+      - infoTitle: Information
+        infoDescription: Hello
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 1, y: 1, z: 1}
+    - productName: Garuda 105 - V2
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints:
+      - infoTitle: 
+        infoDescription: 
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 1, y: 1, z: 1}
+    - productName: MaRG 155 - BR
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints:
+      - infoTitle: 
+        infoDescription: 
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 1, y: 1, z: 1}
+    - productName: ULH 155 39 Cal
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints:
+      - infoTitle: 
+        infoDescription: 
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 1, y: 1, z: 1}
+    - productName: Bharat 52
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints:
+      - infoTitle: 
+        infoDescription: 
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 1, y: 1, z: 1}
+    - productName: Bharat 45
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints:
+      - infoTitle: 
+        infoDescription: 
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 1, y: 1, z: 1}
+  - categoryName: Armored
+    categoryIcon: {fileID: -1699272949, guid: 527a2c5e9ed7e634bbce7ac51fec7da4, type: 3}
+    products:
+    - productName: Kalyani M4
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Kalyani Maverick
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Mine Protected Vehicle
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Armoured Personnel Carrier
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Light Bullet Proof Vehicle
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Light Tactical Vehicle
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Ultra Light Strike Vehicle
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Armoured Troops Carrier
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+  - categoryName: Firearms
+    categoryIcon: {fileID: 1285575388, guid: 527a2c5e9ed7e634bbce7ac51fec7da4, type: 3}
+    products:
+    - productName: CQB Carbine
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Sniper Rifles
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Protective Carbine
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+  - categoryName: Munitions
+    categoryIcon: {fileID: 970407322, guid: 527a2c5e9ed7e634bbce7ac51fec7da4, type: 3}
+    products:
+    - productName: GP Bomb 500kg
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Shells - 70 -155mm
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Artillery Shell 152mm
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Mortar Bodies 120mm
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: Rocket Warhead
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
+    - productName: FSAPDS 120mm
+      productThumbnail: {fileID: 0}
+      modelPrefab: {fileID: 0}
+      productImages: []
+      productVideo: {fileID: 0}
+      infoPoints: []
+      arSpawnPositionOffset: {x: 0, y: 0, z: 0}
+      arScale: {x: 0, y: 0, z: 0}
