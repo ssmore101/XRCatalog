@@ -118,14 +118,6 @@ public class InfoPoint
     [Tooltip("Description or details of the information point.")]
     [TextArea]
     public string infoDescription;
-
-    [Tooltip("Optional video clip for this information point.")]
-    public VideoClip infoVideo;
-
-    /// <summary>
-    /// Returns true if the info point has a video.
-    /// </summary>
-    public bool HasVideo => infoVideo != null;
 }
 
 #endregion
