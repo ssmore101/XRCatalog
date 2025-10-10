@@ -18,12 +18,11 @@ MonoBehaviour:
     products:
     - productName: ATAGS
       productThumbnail: {fileID: 0}
-      modelPrefab: {fileID: 0}
-      productImages: []
+      modelPrefab: {fileID: 919132149155446097, guid: 6d833f795c41de34bbde63b84676875e, type: 3}
+      productImages:
+      - {fileID: 21300000, guid: 5d1e43c4f00480c4e8766f7b60a04d1a, type: 3}
       productVideo: {fileID: 0}
-      infoPoints:
-      - infoTitle: Information
-        infoDescription: Hello
+      information: "This is ATAGS Artillery Gun\n\tasd\n\tasd"
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 1, y: 1, z: 1}
     - productName: Garuda 105 - V2
@@ -31,9 +30,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints:
-      - infoTitle: 
-        infoDescription: 
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 1, y: 1, z: 1}
     - productName: MaRG 155 - BR
@@ -41,9 +38,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints:
-      - infoTitle: 
-        infoDescription: 
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 1, y: 1, z: 1}
     - productName: ULH 155 39 Cal
@@ -51,9 +46,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints:
-      - infoTitle: 
-        infoDescription: 
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 1, y: 1, z: 1}
     - productName: Bharat 52
@@ -61,9 +54,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints:
-      - infoTitle: 
-        infoDescription: 
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 1, y: 1, z: 1}
     - productName: Bharat 45
@@ -71,9 +62,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints:
-      - infoTitle: 
-        infoDescription: 
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 1, y: 1, z: 1}
   - categoryName: Armored
@@ -84,7 +73,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Kalyani Maverick
@@ -92,7 +81,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Mine Protected Vehicle
@@ -100,7 +89,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Armoured Personnel Carrier
@@ -108,7 +97,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Light Bullet Proof Vehicle
@@ -116,7 +105,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Light Tactical Vehicle
@@ -124,7 +113,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Ultra Light Strike Vehicle
@@ -132,7 +121,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Armoured Troops Carrier
@@ -140,7 +129,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
   - categoryName: Firearms
@@ -151,7 +140,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Sniper Rifles
@@ -159,7 +148,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Protective Carbine
@@ -167,7 +156,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
   - categoryName: Munitions
@@ -178,7 +167,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Shells - 70 -155mm
@@ -186,7 +175,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Artillery Shell 152mm
@@ -194,7 +183,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Mortar Bodies 120mm
@@ -202,7 +191,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: Rocket Warhead
@@ -210,7 +199,7 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
     - productName: FSAPDS 120mm
@@ -218,6 +207,6 @@ MonoBehaviour:
       modelPrefab: {fileID: 0}
       productImages: []
       productVideo: {fileID: 0}
-      infoPoints: []
+      information: 
       arSpawnPositionOffset: {x: 0, y: 0, z: 0}
       arScale: {x: 0, y: 0, z: 0}
